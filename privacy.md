@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Vito Sassone built the Spare Me Lite app as a Free app. This SERVICE is provided by Vito Sassone at no cost and is intended for use as is.
 
