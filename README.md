@@ -8,4 +8,4 @@ Allow 24-48 hours for response, thank you.
 
 <a href="https://tsass123.github.io/spareme/smprivacy.html"><i>Spare Me Privacy Policy</i></a>
 
-<a href="https://tsass123.github.io/spareme/privacy.html"><i style="font-size:8">Spare Me Lite Privacy</i></a>
+<a href="https://tsass123.github.io/spareme/privacy.html"><i>Spare Me Lite Privacy</i></a>
