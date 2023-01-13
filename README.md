@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<img src="Logo.png" alt="Spare Me" width="200" height="200">
+<img src="Logo.png" alt="Spare Me" width="200" height="200" class="center">
 
   <h1 style="text-align:center;">Spare Me</h1>
   <h4 style="text-align:center;">Elevate Game with Analytics</h4>
