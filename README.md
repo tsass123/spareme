@@ -6,7 +6,8 @@
 
 <img src="Logo.png" alt="Spare Me" width="200" height="200">
 
-# Spare Me - Elevate Game with Analytics
+<h1 style="text-align:center;">Spare Me - Elevate Game with Analytics</h1>
+<h3 style="text-align:center;">Spare Me - Elevate Game with Analytics</h3>
 
 Contact page for Spare Me and Spare Me Lite applications
 
