@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:#CC9966;>
+<body style="background-color:#CC9966;">
 
 <img src="Logo.png" alt="Spare Me" width="100" height="100"><h1 style="text-align:center;">Spare Me</h1>
   <h4 style="text-align:center;">Elevate Game with Analytics</h4>
