@@ -6,6 +6,6 @@ Please email questions, comments, suggestions and issues to <a href="mailto:Spar
 
 Allow 24-48 hours for response, thank you.
 
-<a href="https://tsass123.github.io/spareme/smprivacy.html"><i>Spare Me Privacy Policy</i></a>
+<a href="https://tsass123.github.io/spareme/smprivacy.html"><i><small>Spare Me Privacy Policy</small></i></a>
 
-<a href="https://tsass123.github.io/spareme/privacy.html"><i>Spare Me Lite Privacy</i></a>
+<a href="https://tsass123.github.io/spareme/privacy.html"><i><small>Spare Me Lite Privacy</small></i></a>
