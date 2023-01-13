@@ -4,9 +4,8 @@ Contact page for Spare Me and Spare Me Lite applications
 
 Please email questions, comments, suggestions and issues to <a href="mailto:SpareMeService@gmail.com">Spare Me Support</a>
 
-SpareMeService@gmail.com
-
 Allow 24-48 hours for response, thank you.
 
-<a href="https://tsass123.github.io/spareme/smprivacy.html">Spare Me Privacy Policy</a>
-<a href="https://tsass123.github.io/spareme/privacy.html">Spare Me Lite Privacy </a>
+<a href="https://tsass123.github.io/spareme/smprivacy.html"><i>Spare Me Privacy Policy</i></a>
+
+<a href="https://tsass123.github.io/spareme/privacy.html"><i>Spare Me Lite Privacy</i></a>
