@@ -1,4 +1,4 @@
-<img src="Logo.png" alt="Spare Me">
+<img src="Logo.png" alt="Spare Me" width="500" height="500">
 
 # Spare Me - Elevate Game with Analytics
 
