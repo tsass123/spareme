@@ -11,7 +11,7 @@
 <!--<img src="Logo.png" alt="Spare Me" width="100" height="100" style="opacity:0.5;filter:alpha(opacity=40);">-->
       
 <h1 style="text-align:center;">Spare Me</h1>
-  <h3 style="text-align:center;">Elevate Game with Analytics</h3>
+<h3 style="text-align:center;">Elevate Game with Analytics</h3>
 
   <p style="text-align:center;">Contact page for Spare Me and Spare Me Lite applications<br></p>
 
