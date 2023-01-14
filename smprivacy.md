@@ -59,7 +59,7 @@ I want to inform users of this Service that these third parties have access to t
 
 <p>This policy is effective as of 2023-01-11</p>
 
-Contact Us
+<h3>Contact Us</h3>
 
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <a href="mailto:SpareMeService@gmail.com"><i>Spare Me Support.</i></a></p>
 
