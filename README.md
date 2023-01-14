@@ -3,6 +3,7 @@
 <body style="
       background-image: url('Logo.png');
       background-repeat: no-repeat;
+      background-attachment: fixed;
       background-postion: left top;
       background-size: 200px 280px;
       mix-blend-mode: multiply;">
