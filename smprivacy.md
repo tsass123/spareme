@@ -1,12 +1,10 @@
-<html>
-<body>
-<div style="
-      background-color:#CCCC99;
+<html style="background-color:#CCCC99;">
+<body style="
       background-image: url('Logo.png');
       background-repeat: no-repeat;
       background-postion: right bottom;
       background-size: 200px 280px;
-            mix-blend-mode: multiply"></div>
+      mix-blend-mode: multiply;">
 
   <h1>Privacy Policy</h1>
 
