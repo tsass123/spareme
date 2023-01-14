@@ -1,10 +1,9 @@
 <html style="
       background-color:#CCCC99;">
 <body style="
-      background-color:#CCCC99;
       background-image: url('Logo.png');
       background-repeat: no-repeat;
-      background-postion: right bottom;
+      background-postion: left top;
       background-size: 200px 280px;
             mix-blend-mode: multiply">
 <!--<img src="Logo.png" alt="Spare Me" width="100" height="100" style="opacity:0.5;filter:alpha(opacity=40);">-->
