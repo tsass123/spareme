@@ -17,7 +17,7 @@
 
 <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Spare Me unless otherwise defined in this Privacy Policy.</p>
 
-      <h3>Information Collection and Use</h3>
+<h3>Information Collection and Use</h3>
 
 <p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to None. The information that I request will be retained on your device and is not collected by me in any way.</p>
 
