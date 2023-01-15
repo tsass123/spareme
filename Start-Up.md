@@ -7,7 +7,7 @@
       background-size: 200px 280px;
       mix-blend-mode: multiply;">
 
-<h1>Privacy Policy</h1>
+<h1>Start Up</h1>
 
 <p>Thank you for choosing Spare Me as your bowling improvement tracker and analytical tool. We believe Spare Me’s intuitive features 
 will provide useful information to help identify strengths and weaknesses within your game</p>
@@ -25,6 +25,7 @@ will provide useful information to help identify strengths and weaknesses within
 <p>** For Spare Me Full version, a maximum of 5 bowlers can be scored at one time</p>
 
 <p><em>That’s it!! Now 10 in the pit!!<em></p>
- 
+
+<h5 style="text-align:center;"><i>@ 2023 Vito Sassone. All rights reserved</i></h5>   
 </body>
 </html>
