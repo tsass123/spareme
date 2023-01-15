@@ -17,7 +17,7 @@ will provide useful information to help identify strengths and weaknesses within
 <p>
 1.	On the Home tab, tap the Settings Icon<br>
 2.	In Settings, select the options you desire<br>
-3.	Also in Settings, tap the Bowler button<br
+3.	Also in Settings, tap the Bowler button<br>
 4.	Type in a bowler name (required), then tap the Add button<br>
 5.	Repeat steps 3 and 4, for League/Practice sessions and Bowling Balls (optional – in Spare Me Full only)</p>
       <p><i>** Enter as many Bowlers, Leagues/Practice sessions and Balls (Spare Me Full) as you like</i></p>
