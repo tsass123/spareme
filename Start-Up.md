@@ -7,7 +7,7 @@
       background-size: 200px 280px;
       mix-blend-mode: multiply;">
 
-<h1 style="text-align:center;">Spare Me - Start Up</h1>
+<h1 style="text-align:center;">Getting Started</h1>
 
 <p>Thank you for choosing Spare Me as your bowling improvement tracker and analytical tool. We believe Spare Me’s intuitive features 
 will provide useful information to help identify strengths and weaknesses within your game</p>
