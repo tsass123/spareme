@@ -4,7 +4,7 @@
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-postion: center;
-      background-size: 100px 100px;
+      background-size: 150px 150px;
       mix-blend-mode: multiply;">  
     
 <h1 style="text-align:center;">Spare Me</h1>
