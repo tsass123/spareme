@@ -4,7 +4,7 @@
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-postion: right bottom;
-      background-size: 200px 280px;
+      background-size: 150px 150px;
       mix-blend-mode: multiply;">
 
   <h1>Privacy Policy</h1>
