@@ -1,5 +1,5 @@
 <html style="background-color:#CCCC99;">
-<body><div style="
+<body style="
       background-image: url('Logo.png');
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -17,5 +17,5 @@
 <h3 style="text-align:center;"><a href="https://tsass123.github.io/spareme/Start-Up.html"><i>Getting Started</i></a></h3>
       
 <h5 style="text-align:center;"><a href="https://tsass123.github.io/spareme/smprivacy.html"><i>Spare Me Privacy Policy</i></a><br><a href="https://tsass123.github.io/spareme/privacy.html"><i>Spare Me Lite Privacy Policy</i></a><br><br><i>@ 2023 Vito Sassone. All rights reserved</i></h5>   
-</div></body>
+</body>
 </html>
