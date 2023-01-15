@@ -1,11 +1,11 @@
 <html style="background-color:#CCCC99;">
-<body style="
+<body><p style="
       background-image: url('Logo.png');
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-postion: center;
       background-size: 150px 150px;
-      mix-blend-mode: multiply;">  
+      mix-blend-mode: multiply;"></p>  
     
 <h1 style="text-align:center;">Spare Me</h1>
   <h3 style="text-align:center;">Elevate Game with Analytics</h3>
