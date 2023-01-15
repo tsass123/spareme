@@ -20,8 +20,8 @@ will provide useful information to help identify strengths and weaknesses within
 3.	Also in Settings, tap the Bowler button<br>
 4.	Type in a bowler name (required), then tap the Add button<br>
 5.	Repeat steps 3 and 4, for League/Practice sessions and Bowling Balls (optional – in Spare Me Full only)</p>
-      <p><i>** Enter as many Bowlers, Leagues/Practice sessions and Balls (Spare Me Full) as you like</i></p>
-      <p><i>** For Spare Me Full version, a maximum of 5 bowlers can be scored at one time</i></p>
+<p><i>** Enter as many Bowlers, Leagues/Practice sessions and Balls (Spare Me Full) as you like<br>
+** For Spare Me Full version, a maximum of 5 bowlers can be scored at one time</i></p>
 
 <h3><em>That’s it!! Now 10 in the pit!!</em></h3>
 
