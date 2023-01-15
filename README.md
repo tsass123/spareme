@@ -3,7 +3,7 @@
       background-image: url('Logo.png');
       background-repeat: no-repeat;
       background-attachment: fixed;
-      background-postion: left top;
+      background-postion: center;
       background-size: 100px 100px;
       mix-blend-mode: multiply;">  
     
