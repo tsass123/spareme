@@ -4,12 +4,10 @@
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-postion: left top;
-      background-size: 200px 280px;
+      background-size: 100px 100px;
       mix-blend-mode: multiply;">  
-
-<div style="background-color:#CCCC99;">     
+    
 <h1 style="text-align:center;">Spare Me</h1>
-</div>
   <h3 style="text-align:center;">Elevate Game with Analytics</h3>
 
   <p style="text-align:center;">Contact page for Spare Me and Spare Me Lite applications<br></p>
