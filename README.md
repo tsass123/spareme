@@ -3,7 +3,7 @@
       background-image: url('Spareme_transparent.png');
       background-repeat: no-repeat;
       background-attachment: fixed;
-      background-position: center;
+      background-position: center top;
       background-size: 150px 150px;
       mix-blend-mode: multiply;"> 
     
