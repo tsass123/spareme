@@ -1,6 +1,6 @@
 <html style="background-color:#CCCC99;">
 <body style="
-      background-image: url('Logo.png');
+      background-image: url('Spareme_transparent.png');
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-postion: center;
