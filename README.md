@@ -10,7 +10,7 @@
 <h1 style="text-align:center;">Spare Me</h1>
   <h3 style="text-align:center;">Elevate Game with Analytics</h3>
 
-  <p style="text-align:center;">Contact page for Spare Me and Spare Me Lite applications<br></p>
+  <p style="text-align:center;">Contact page for Spare Me, Spare Me Lite and Five Pin Bowling Lite applications<br></p>
 
   <p style="text-align:center;">Please email questions, comments, suggestions and issues to <a href="mailto:SpareMeService@gmail.com"><i>Spare Me Support.</i></a>  Allow 24-48 hours for response, thank you.<br></p>
 
