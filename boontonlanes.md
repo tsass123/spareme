@@ -1,5 +1,4 @@
 <html style="background-color:#CCCC99;">
-<html style="background-color:#CCCC99;">
 <body style="
       background-image: url('Spareme_transparent.png');
       background-repeat: no-repeat;
