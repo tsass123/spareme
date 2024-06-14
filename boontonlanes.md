@@ -1,12 +1,6 @@
 <html style="background-color:#CCCC99;">
-<body style="
-      background-image: url('Spareme_transparent.png');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-position: right top;
-      background-size: 150px 150px;
-      mix-blend-mode: multiply;"> 
-    
+<body> 
+      
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
   class="fit-picture"
