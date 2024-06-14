@@ -9,7 +9,6 @@
     
 <h1 style="text-align:center;">Boonton Lanes Promotions</h1>
   <h3 style="text-align:center;">Elevate Game with Analytics</h3>
-  <img src="boontonlanes.jpeg" alt="Boonton Lanes">
 
   <p style="text-align:center;">Contact page for Spare Me, Spare Me Lite and Five Pin Bowling Lite applications<br></p>
 
