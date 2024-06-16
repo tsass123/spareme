@@ -1,12 +1,13 @@
 <html style="background-color:#CCCC99;">
-<body>
-
+<head>
+<style>
 @media print {
   @page { margin: 0; }
   body { margin: 1.6cm; }
 }
-
-  
+</style>
+</head>
+<body>  
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
   class="fit-picture"
