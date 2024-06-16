@@ -1,10 +1,11 @@
 <html style="background-color:#CCCC99;">
-<body>
+<style>
 @media print {
-  thead, tfoot {  
-    display: none !important
-  }
+.page-header { display: none !important; }
+.page-footer { display: none !important; }
 }
+</style>
+<body>
       
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
