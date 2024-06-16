@@ -1,9 +1,7 @@
 <html style="background-color:#CCCC99;">
 
 <style>
-{% unless template.name == 'index' %}
 .site-header { display: none; }
-{% endunless  %}
 </style>
 
 <body>
