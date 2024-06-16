@@ -1,4 +1,5 @@
 <html style="background-color:#CCCC99;">
+<body>
 <style type="text/css">
 @media print{
   body{ background-color:#FFFFFF; background-image:none; color:#000000 }
@@ -7,8 +8,7 @@
   #contentarea{ width:100%;}
 }
 </style>
-<body>
-      
+  
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
   class="fit-picture"
