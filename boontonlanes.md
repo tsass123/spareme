@@ -1,4 +1,4 @@
-<html style="background-color:#CCCC99;">
+<html>
 <body>
    
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
