@@ -1,9 +1,10 @@
 <html style="background-color:#CCCC99;">
-<body style= 
-.is-home-page #title-not-home,
-    .is-home-page .header,
-    .is-home-page .footer {display: none;
-#wrapper:not(.is-home-page) #title-home {display: none;}>
+<body>
+@media print {
+  thead, tfoot {  
+    display: none !important
+  }
+}
       
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
