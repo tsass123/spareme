@@ -1,7 +1,11 @@
 <html style="background-color:#CCCC99;">
-<style>
-.page-header { display: none !important; }
-.page-footer { display: none !important; }
+<style type="text/css">
+@media print{
+  body{ background-color:#FFFFFF; background-image:none; color:#000000 }
+  #ad{ display:none;}
+  #leftbar{ display:none;}
+  #contentarea{ width:100%;}
+}
 </style>
 <body>
       
