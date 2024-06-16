@@ -1,5 +1,5 @@
 <html style="background-color:#CCCC99;">
-    <body>
+
 <style>
 {% unless template.name == 'index' %}
 .site-header {
@@ -8,6 +8,8 @@ background-size: 100%;
 }
 {% endunless  %}
 </style>
+
+<body>
    
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
