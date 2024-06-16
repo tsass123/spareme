@@ -2,11 +2,8 @@
 <body style= 
 .is-home-page #title-not-home,
     .is-home-page .header,
-    .is-home-page .footer {
-        display: none;
-#wrapper:not(.is-home-page) #title-home {
-    display: none;
-}
+    .is-home-page .footer {display: none;
+#wrapper:not(.is-home-page) #title-home {display: none;}>
       
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
