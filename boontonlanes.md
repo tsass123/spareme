@@ -1,11 +1,13 @@
 <html style="background-color:#CCCC99;">
-<head>
-<style>
-.page .site-header {
-    display: none;
+    
+{{#if head.title "==" "spareme"}}
+<style type="text/css">
+.header {
+  display: none !important;
 }
 </style>
-</head>
+{{/if}}
+    
 <body>  
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
