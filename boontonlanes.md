@@ -1,3 +1,22 @@
+
+/*This is just for the demo to show a style change*/
+.is-home-page #title-not-home,
+#wrapper:not(.is-home-page) #title-home {
+    display: none;
+}
+    
+@media print {
+    .page{
+        page-break-after: always;
+    }
+    
+    /*When a parent element has the `.is-home-page` class, the `.header` and `.footer` will not show when printing*/
+    .is-home-page .header,
+    .is-home-page .footer {
+        display: none;
+    }
+}
+
 <html style="background-color:#CCCC99;">
 <body> 
       
