@@ -1,9 +1,8 @@
 <html style="background-color:#CCCC99;">
 <head>
 <style>
-@media print {
-  @page { margin: 0; }
-  body { margin: 1.6cm; }
+.site-header {
+    display: none;
 }
 </style>
 </head>
