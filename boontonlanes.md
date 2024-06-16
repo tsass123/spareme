@@ -1,9 +1,7 @@
 <html style="background-color:#CCCC99;">
 <style>
-@media print {
 .page-header { display: none !important; }
 .page-footer { display: none !important; }
-}
 </style>
 <body>
       
