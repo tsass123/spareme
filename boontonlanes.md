@@ -1,11 +1,9 @@
 <html style="background-color:#CCCC99;">
 <body>
 <style type="text/css">
-@media print{
-  body{ background-color:#FFFFFF; background-image:none; color:#000000 }
-  #ad{ display:none;}
-  #leftbar{ display:none;}
-  #contentarea{ width:100%;}
+@media print {
+  @page { margin: 0; }
+  body { margin: 1.6cm; }
 }
 </style>
   
