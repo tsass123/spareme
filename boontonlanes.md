@@ -1,6 +1,6 @@
 <html style="background-color:#CCCC99;">
 <body style =    
-.homepage .header-border{
+.header-border{
     border-bottom: 0 !important;
 }>
     
