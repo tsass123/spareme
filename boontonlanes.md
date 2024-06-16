@@ -2,10 +2,7 @@
 
 <style>
 {% unless template.name == 'index' %}
-.site-header {
-background-image: url("(image name).jpg");
-background-size: 100%;
-}
+.site-header { display: none; }
 {% endunless  %}
 </style>
 
