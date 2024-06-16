@@ -1,7 +1,7 @@
 <html style="background-color:#CCCC99;">
 <head>
 <style>
-.site-header {
+.page .site-header {
     display: none;
 }
 </style>
