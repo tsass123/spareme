@@ -1,5 +1,9 @@
-<html style="
-    .homepage .header-title-text {display: none;}">
+<html>
+<style>
+ .site-title, .site-tagline {
+   visibility: hidden;
+ }
+</style>
 <body>
    
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
