@@ -1,7 +1,8 @@
-<html style="
-    .navheader {
-    display:none;
-}">
+<html>
+
+<head>
+    .site-header {visibility:hidden};
+</head>
         
 <body>   
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
