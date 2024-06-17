@@ -1,11 +1,13 @@
 <html>
-    <head style="
+    
+    <head>
         <title>App Name - @yield('title')</title>
         <style>
            .site-title, .site-tagline {
             visibility: hidden;}
         </style>
     </head>
+        
 <body>   
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
