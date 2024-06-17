@@ -1,10 +1,11 @@
 <html>
+
+<body>
 <style>
  .site-title, .site-tagline {
    visibility: hidden;
  }
 </style>
-<body>
    
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
 <img
