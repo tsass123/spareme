@@ -1,12 +1,7 @@
-<html>
-    
-    <head>
-        <title>App Name - @yield('title')</title>
-        <style>
-           .site-title, .site-tagline {
-            visibility: hidden;}
-        </style>
-    </head>
+<html style="
+    .navheader {
+    display:none;
+}">
         
 <body>   
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
