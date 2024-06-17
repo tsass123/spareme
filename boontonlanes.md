@@ -1,5 +1,5 @@
-<html style =
-    .homepage #top { display: none; }>
+<html style="
+    .homepage #top { display: none; }">
 <body>
    
 <h1 style="text-align:center;">Boonton Lanes Promotion</h1>
