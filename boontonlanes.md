@@ -3,7 +3,7 @@
 <head style="visibility: hidden;">
        
 <body>   
-<h1 style="text-align:center;">Boonton Lanes Promotion</h1>
+       
 <img
   class="fit-picture"
   src="boontonlanes.jpeg"
