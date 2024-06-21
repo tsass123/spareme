@@ -4,10 +4,10 @@
        
 <body>   
        
-<embed src="boontonlanes07005nodell.pdf" width="500" height="375">
-
-<object data="boontonlanes07005nodell.pdf" type="application/pdf" width="100%" height="100%">
-  <p>Alternative text - include a link <a href="boontonlanes07005nodell.pdf">to the PDF!</a></p>
+<object data="boontonlanes07005nodell.pdf" type="application/pdf" width="100%" height="800px">
+ <p>It appears you don't have a PDF plugin for this browser.
+ No biggie... you can <a href="boontonlanes07005nodell.pdf">click here to
+  download the PDF file.</a></p>
 </object>
   
 <h5 style="text-align:center;"><i>@ 2024 Bowling Romance. All rights reserved</i></h5>   
