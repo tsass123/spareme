@@ -1,0 +1,3 @@
+Deacon Doubles;Monday;April-June
+No Dell;Wednesday;Winter
+Sparetimers;Wednesday;Summer
