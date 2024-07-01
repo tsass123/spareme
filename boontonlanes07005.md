@@ -4,12 +4,11 @@
        
 <body>  
        
-<iframe src="boontonlanes07005.pdf" style="width: 100%;height: 100%;border: none;" />
+<object src="boontonlanes07005.pdf" style="width: 100%;height: 100%;border: none;" />
 
 <img
   class="fit-picture"
-  src="boontonlanes07005.pdf"
-  type="application/pdf" 
+  src="boontonlanes07005.pdf" 
   alt="" />
   
 <h5 style="text-align:center;"><i>@ 2024 Bowling Romance. All rights reserved</i></h5>   
