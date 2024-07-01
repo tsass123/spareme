@@ -4,7 +4,9 @@
        
 <body>  
        
-<object src="boontonlanes07005.pdf" style="width: 100%;height: 100%;border: none;" />
+<object data="boontonlanes07005.pd" type="application/pdf" width="300" height="200">
+<a href="data/test.pdf">test.pdf</a>
+</object>
 
 <img
   class="fit-picture"
