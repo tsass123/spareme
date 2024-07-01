@@ -4,13 +4,7 @@
        
 <body>  
        
-<embed
-    src="boontonlanes07005.pdf"
-    type="application/pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%" />
+<embed src="boontonlanes07005.pdf" width="800px" height="2100px" />
 
 <img
   class="fit-picture"
