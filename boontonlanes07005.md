@@ -4,7 +4,7 @@
        
 <body>   
        
-<img
+<pdf
   class="fit-picture"
   src="boontonlanes07005.pdf"
   alt="" />
