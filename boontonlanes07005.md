@@ -2,9 +2,18 @@
 
 <head style="visibility: hidden;">
        
-<body>   
+<body>  
        
-<pdf
+<embed
+    src="boontonlanes07005.pdf"
+    type="application/pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></embed>
+
+<img
   class="fit-picture"
   src="boontonlanes07005.pdf"
   alt="" />
