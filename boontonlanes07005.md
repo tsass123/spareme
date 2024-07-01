@@ -4,7 +4,7 @@
        
 <body>  
        
-<iframe src="boontonlanes07005.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<iframe src="boontonlanes07005.pdf" style="width: 100%;height: 100%;border: none;" />
 
 <img
   class="fit-picture"
