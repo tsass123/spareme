@@ -4,8 +4,7 @@
        
 <body>  
        
-<object data="boontonlanes07005.pdf" type="application/pdf" width="300" height="200">
-</object>
+<embed src="https://github.com/tsass123/spareme/boontonlanes.pdf" width="500" height="375" type="application/pdf">
 
 <img
   class="fit-picture"
