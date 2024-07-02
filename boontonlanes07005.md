@@ -8,7 +8,7 @@
     title="Inline Frame Example" 
     width="300" 
     height="200" 
-    src="https://tsass123.github.io/spareme/boontonlanes07005.pdf"> 
+    src=https://tsass123.github.io/spareme/boontonlanes07005.pdf> 
 </iframe> 
 
 <img
