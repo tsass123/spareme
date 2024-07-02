@@ -5,7 +5,7 @@
 <body>  
        
 <object data="boontonlanes07005.pdf" type="application/pdf" width="300" height="200">
-<a href="boontonlanes07005.pdf">test.pdf</a>
+<a href="boontonlanes07005.pdf" />
 </object>
 
 <img
