@@ -4,7 +4,7 @@
        
 <body>  
        
-<embed src="https://github.com/tsass123](https://tsass123.github.io/spareme/boontonlanes07005.pdf" width="500" height="375" type="application/pdf">
+<embed src="https://tsass123.github.io/spareme/boontonlanes07005.pdf" width="500" height="375" type="application/pdf">
 
 <img
   class="fit-picture"
