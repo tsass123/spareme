@@ -4,7 +4,12 @@
        
 <body>  
        
-<embed src="boontonlanes07005.pdf" width="500" height="375" type="application/pdf" />
+<iframe id="inlineFrameExample" 
+    title="Inline Frame Example" 
+    width="300" 
+    height="200" 
+    src="https://tsass123.github.io/spareme/boontonlanes07005.pdf"> 
+</iframe> 
 
 <img
   class="fit-picture"
