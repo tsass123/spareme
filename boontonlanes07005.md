@@ -4,7 +4,7 @@
        
 <body>  
        
-<embed src="spareme/boontonlanes07005.pdf" width="500" height="375" type="application/pdf" />
+<embed src="boontonlanes07005.pdf" width="500" height="375" type="application/pdf" />
 
 <img
   class="fit-picture"
