@@ -10,10 +10,6 @@
     height="200" 
     src=https://tsass123.github.io/spareme/boontonlanes07005.pdf /> 
 
-<script type="text/javascript">
-    document.location = "tsass123.github.io/boontonlanes07005.pdf"
-</script>
-
 <img
   class="fit-picture"
   src="boontonlanes07005.pdf" 
@@ -21,5 +17,8 @@
   
 <h5 style="text-align:center;"><i>@ 2024 Bowling Romance. All rights reserved</i></h5>   
 </body>
+<script type="text/javascript">
+    document.location = "tsass123.github.io/boontonlanes07005.pdf"
+</script>
 </head>
 </html>
