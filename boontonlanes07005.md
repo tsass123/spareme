@@ -18,7 +18,7 @@
 <h5 style="text-align:center;"><i>@ 2024 Bowling Romance. All rights reserved</i></h5>   
 </body>
 <script type="text/javascript">
-    document.location = "tsass123.github.io/boontonlanes07005.pdf"
+    document.location = "https://tsass123.github.io/boontonlanes07005.pdf"
 </script>
 </head>
 </html>
