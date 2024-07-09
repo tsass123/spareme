@@ -1,2 +1,2 @@
-Lucky Strikes;Monday;Winter
-Old Timers;Thursday;Winter
+Lucky Strikes,Monday,Winter,N,N,N,0,
+Old Timers,Thursday,Winter,N,Y,N,25.00,SillyDillyWillie
