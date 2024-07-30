@@ -6,7 +6,7 @@
 
 <img
   class="fit-picture"
-  src="montvalelanesinc07645.jpeg" 
+  src="montvalelanesinc07646.jpeg" 
   alt="" />
   
 <h5 style="text-align:center;"><i>@ 2024 Bowling Romance. All rights reserved</i></h5>   
