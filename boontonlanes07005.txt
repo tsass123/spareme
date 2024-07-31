@@ -1,3 +1,0 @@
-Deacon Doubles,Monday,April-June,N,N,N,0,
-No Dell,Wednesday,Winter,Y,N,Y,25.00,SillyDillyWillie
-Sparetimers,Wednesday,Summer,N,N,N,0,
