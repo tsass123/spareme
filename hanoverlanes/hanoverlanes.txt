@@ -1,14 +1,14 @@
-HTRWBL Ladies (3),Mon 1:15pm,Winter 24/25,N,N,N,0
-ADP Mixed (4),Mon 6:05pm,Winter 24/25,N,N,N,0
-Tuesday Morning Classics Mixed (3),Tues 10:00am,Winter 24/25,N,N,N,0
-Tuesday Belles Mixed (4),Tues 12:30pm,Winter 24/25,N,N,N,0
-Ten Alarm Mixed (4),Tues 6:20pm,Winter 24/25,N,N,N,0
-OEA Mixed (3),Tues 4:00pm,Winter 24/25,N,N,N,0
-Essex Fells CC Ladies (4),Tues 10:00am,Winter 24/25,N,N,N,0
-700T Mixed (4),Wed 6:05pm,Winter 24/25,N,N,N,0
-Roseland Mixed Mixed (3),Wed 8:15pm,Winter 24/25,N,N,N,0
-Wednesday Trio Mixed (3),Wed 9:15pm,Winter 24/25,N,N,N,0
-Koffee Keglers Ladies (4),Thurs 9:30am,Winter 24/25,N,N,N,0
-Livingston Ladies (4),Thurs 6:30pm,Winter 24/25,N,N,N,0
-HTSBL Mixed (3),Fri 10:00am,Winter 24/25,N,N,N,0
-Old Guard Men’s Seniors (3),Fri 10:00am,Winter 24/25,N,N,N,0
+HTRWBL Ladies (3),Mon 1:15pm,Winter 24/25,N,N,N,0,
+ADP Mixed (4),Mon 6:05pm,Winter 24/25,N,N,N,0,
+Tuesday Morning Classics Mixed (3),Tues 10:00am,Winter 24/25,N,N,N,0,
+Tuesday Belles Mixed (4),Tues 12:30pm,Winter 24/25,N,N,N,0,
+Ten Alarm Mixed (4),Tues 6:20pm,Winter 24/25,N,N,N,0,
+OEA Mixed (3),Tues 4:00pm,Winter 24/25,N,N,N,0,
+Essex Fells CC Ladies (4),Tues 10:00am,Winter 24/25,N,N,N,0,
+700T Mixed (4),Wed 6:05pm,Winter 24/25,N,N,N,0,
+Roseland Mixed Mixed (3),Wed 8:15pm,Winter 24/25,N,N,N,0,
+Wednesday Trio Mixed (3),Wed 9:15pm,Winter 24/25,N,N,N,0,
+Koffee Keglers Ladies (4),Thurs 9:30am,Winter 24/25,N,N,N,0,
+Livingston Ladies (4),Thurs 6:30pm,Winter 24/25,N,N,N,0,
+HTSBL Mixed (3),Fri 10:00am,Winter 24/25,N,N,N,0,
+Old Guard Men’s Seniors (3),Fri 10:00am,Winter 24/25,N,N,N,0,
