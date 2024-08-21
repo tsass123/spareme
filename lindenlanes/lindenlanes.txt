@@ -1,18 +1,18 @@
-Cranford Seniors Mixed (4),Mon 9:30am,Winter 24/25,N,N,N,0
-Powder Puffs Ladies (3),Mon 12:30pm,Winter 24/25,N,N,N,0
-Monday Night Mixed Social (4),Mon 6:00pm,Winter 24/25,N,N,N,0
-Newark School Women Ladies (2),Tues 4:00pm,Winter 24/25,N,N,N,0
-Tuesday Night Mixed Social (5),Tues 6:30pm,Winter 24/25,N,N,N,0
-Evangel Men’s League Men’s (3),Tues 7:00pm,Winter 24/25,N,N,N,0
-Morning Winners Ladies (3),Wed 9:30am,Winter 24/25,N,N,N,0
-Car Bo League Mixed (2),Wed 6:20pm,Winter 24/25,N,N,N,0
-Women’s Quad Ladies (4),Wed 6:45pm,Winter 24/25,N,N,N,0
-Rotary Club Mixed (4),Wed 7:00pm,Winter 24/25,N,N,N,0
-Linden Seniors Mixed (4),Thurs 9:30am,Winter 24/25,N,N,N,0
-Bowlerettes Ladies (3),Thurs 12:30pm,Winter 24/25,N,N,N,0
-Roselle Sports Club Mixed (3),Thurs 5:45pm,Winter 24/25,N,N,N,0
-Ultimate Construction Trios Men’s(3),Thurs 9:10pm,Winter 24/25,N,N,N,0
-Friday Socialable Mixed (4),Fri 6:30pm,Winter 24/25,N,N,N,0
-PFA 104 Newark Mixed (3),Fri 9:30pm,Winter 24/25,N,N,N,0
-Saturday Morning Kids (2),Sat 10:00am,Winter 24/25,N,N,N,0
-Sunday Morning Majors Men’s (3),Sun 9:30am,Winter 24/25,N,N,N,0
+Cranford Seniors Mixed (4),Mon 9:30am,Winter 24/25,N,N,N,0,
+Powder Puffs Ladies (3),Mon 12:30pm,Winter 24/25,N,N,N,0,
+Monday Night Mixed Social (4),Mon 6:00pm,Winter 24/25,N,N,N,0,
+Newark School Women Ladies (2),Tues 4:00pm,Winter 24/25,N,N,N,0,
+Tuesday Night Mixed Social (5),Tues 6:30pm,Winter 24/25,N,N,N,0,
+Evangel Men’s League Men’s (3),Tues 7:00pm,Winter 24/25,N,N,N,0,
+Morning Winners Ladies (3),Wed 9:30am,Winter 24/25,N,N,N,0,
+Car Bo League Mixed (2),Wed 6:20pm,Winter 24/25,N,N,N,0,
+Women’s Quad Ladies (4),Wed 6:45pm,Winter 24/25,N,N,N,0,
+Rotary Club Mixed (4),Wed 7:00pm,Winter 24/25,N,N,N,0,
+Linden Seniors Mixed (4),Thurs 9:30am,Winter 24/25,N,N,N,0,
+Bowlerettes Ladies (3),Thurs 12:30pm,Winter 24/25,N,N,N,0,
+Roselle Sports Club Mixed (3),Thurs 5:45pm,Winter 24/25,N,N,N,0,
+Ultimate Construction Trios Men’s(3),Thurs 9:10pm,Winter 24/25,N,N,N,0,
+Friday Socialable Mixed (4),Fri 6:30pm,Winter 24/25,N,N,N,0,
+PFA 104 Newark Mixed (3),Fri 9:30pm,Winter 24/25,N,N,N,0,
+Saturday Morning Kids (2),Sat 10:00am,Winter 24/25,N,N,N,0,
+Sunday Morning Majors Men’s (3),Sun 9:30am,Winter 24/25,N,N,N,0,
