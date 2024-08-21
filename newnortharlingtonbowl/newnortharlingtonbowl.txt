@@ -1,9 +1,9 @@
-S.S. Sweethearts Senior Mixed (3),Mon 12:30pm,Winter 24/25,N,N,N,0
-Monday Night Trio Mixed (3),Mon 7:00pm,Winter 24/25,N,N,N,0
-Rhino Ball Mixed (2),Tues 7:00pm,Winter 24/25,N,N,N,0
-Wednesday Night Mixed (4),Wed 7:00pm,Winter 24/25,N,N,N,0
-K of C Mixed (4),Thurs 7:00pm,Winter 24/25,N,N,N,0
-K of C Mixed (2),Thurs 8:00pm,Winter 24/25,N,N,N,0
-Ten in the Pit Trio Mixed (3),Sun 10:30am,Winter 24/25,N,N,N,0
-Adult/Youth Jr Mixed (2),Sun 1:30pm,Winter 24/25,N,N,N,0
-Adult/Youth Bumper Mixed (2),Sun 1:30pm,Winter 24/25,N,N,N,0
+S.S. Sweethearts Senior Mixed (3),Mon 12:30pm,Winter 24/25,N,N,N,0,
+Monday Night Trio Mixed (3),Mon 7:00pm,Winter 24/25,N,N,N,0,
+Rhino Ball Mixed (2),Tues 7:00pm,Winter 24/25,N,N,N,0,
+Wednesday Night Mixed (4),Wed 7:00pm,Winter 24/25,N,N,N,0,
+K of C Mixed (4),Thurs 7:00pm,Winter 24/25,N,N,N,0,
+K of C Mixed (2),Thurs 8:00pm,Winter 24/25,N,N,N,0,
+Ten in the Pit Trio Mixed (3),Sun 10:30am,Winter 24/25,N,N,N,0,
+Adult/Youth Jr Mixed (2),Sun 1:30pm,Winter 24/25,N,N,N,0,
+Adult/Youth Bumper Mixed (2),Sun 1:30pm,Winter 24/25,N,N,N,0,
