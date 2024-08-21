@@ -1,3 +1,13 @@
-Deacon Doubles,Monday,April-June,N,N,N,0,
-No Dell,Wednesday,Winter,Y,N,N,0.05,ErinSassone
-Sparetimers,Wednesday,Summer,N,N,N,0,
+No-Tap Doubles Mixed (2),Mon 6:45pm,Winter 24/25,N,N,N,0,
+Pauls Gang Mixed (4),Tues 6:30pm,Winter 24/25,N,N,N,0,
+Over 55 (3),Tues 10:00am,Winter 24/25,N,N,N,0,
+Coffee Nerves Ladies (4),Wed 9:30am,Winter 24/25,N,N,N,0,
+No Dell Mixed (4),Wed 6:15pm,Winter 24/25,N,N,N,0.05,ErinSassone
+Youth Doubles Mixed (2),Wed 4:00pm,Winter 24/25,N,N,N,0,
+Riverview Ladies (3),Thur 8:55am,Winter 24/25,N,N,N,0,
+Thursday Mixed (4),Thur 6:15pm,Winter 24/25,N,N,N,0,
+Thursday Early Bird Ladies (4),Thurs 6:30pm,Winter 24/25,N,N,N,0,
+Sportsman Men (3),Thurs 9:00pm,Winter 24/25,N,N,N,0,
+RidgeRunners Mixed (4),Fri 6:40pm,Winter 24/25,N,N,N,0,
+Saturday Youth (2),Sat 11:00am,Winter 24/25,N,N,N,0,
+Sunday Doubles Mixed (2),Sun 10:00am,Winter 24/25,N,N,N,0,
