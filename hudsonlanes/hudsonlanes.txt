@@ -1,9 +1,9 @@
-Monday Night Doubles,Mixed (2),Mon 7:30pm,Winter 24/25,N,N,N,0
+Doubles Mixed (2),Mon 7:30pm,Winter 24/25,N,N,N,0
 Strikes R Us Ladies,Tues 7:00pm,Winter 24/25,N,N,N,0
 GSGBO Mixed (3),Tues 8:00pm,Winter 24/25,N,N,N,0
 Wednesday Night Trios Mixed (3),Wed 7:30pm,Winter 24/25,N,N,N,0
-Thursday Morning Doubles Mixed (2),Thurs 10:30am,Winter 24/25,N,N,N,0
-Thursday Night Ladies Ladies (4),Thurs 6:30pm,Winter 24/25,N,N,N,0
+Doubles Mixed (2),Thurs 10:30am,Winter 24/25,N,N,N,0
+Thursday Night Ladies (4),Thurs 6:30pm,Winter 24/25,N,N,N,0
 Mix & Match Mixed (2),Thurs 7:00pm,Winter 24/25,N,N,N,0
 JAS Trios Mixed (3),Thurs 7:30pm,Winter 24/25,N,N,N,0
 Friday Mini League Singles,Fri 8:00pm,Winter 24/25,N,N,N,0
