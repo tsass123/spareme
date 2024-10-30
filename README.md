@@ -7,12 +7,16 @@
       background-size: 150px 150px;
       mix-blend-mode: multiply;"> 
     
-<h1 style="text-align:center;">Spare Me</h1>
-  <h3 style="text-align:center;">Elevate Game with Analytics</h3>
+<h1 style="text-align:center;">Spare Me and Bowling Romance Applications</h1>
+  <h3 style="text-align:center;">For the Love of the Game!</h3>
 
-  <p style="text-align:center;">Contact page for Spare Me, Spare Me Lite, Five Pin Bowling Lite and Bowling Romance applications<br></p>
+  <p style="text-align:center;">Contact page for Spare Me, Spare Me Lite, and Five Pin Bowling Lite applications<br></p>
 
-  <p style="text-align:center;">Please email questions, comments, suggestions and issues to <a href="mailto:SpareMeService@gmail.com"><i>Spare Me Support.</i></a>  Allow 24-48 hours for response, thank you.<br></p>
+  <p style="text-align:center;">For Spare Me, Spare Me Lite, and Five Pin Bowling Lite, please email questions, comments, suggestions and issues to <a href="mailto:SpareMeService@gmail.com"><i>Spare Me Support.</i></a>  Allow 24-48 hours for response, thank you.<br></p><br><br>
+
+  <p style="text-align:center;">Contact page for Bowling Romance application<br></p>
+
+  <p style="text-align:center;">For Bowling Romance, please email questions, comments, suggestions and issues to <a href="mailto:BowlingRomanceService@gmail.com"><i>Bowling Romance Support.</i></a>  Allow 24-48 hours for response, thank you.<br></p>
 
 <h3 style="text-align:center;"><a href="https://tsass123.github.io/spareme/Start-Up.html"><i>Getting Started</i></a></h3>
       
