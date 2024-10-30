@@ -8,11 +8,11 @@
       mix-blend-mode: multiply;"> 
     
 <h1 style="text-align:center;">Spare Me and Bowling Romance Applications</h1>
-  <h3 style="text-align:center;">For the Love of the Game!</h3>
+  <h3 style="text-align:center;">For the Love of the Game!</h3><br>
 
   <p style="text-align:center;">Contact page for Spare Me, Spare Me Lite, and Five Pin Bowling Lite applications<br></p>
 
-  <p style="text-align:center;">For Spare Me, Spare Me Lite, and Five Pin Bowling Lite, please email questions, comments, suggestions and issues to <a href="mailto:SpareMeService@gmail.com"><i>Spare Me Support.</i></a>  Allow 24-48 hours for response, thank you.<br></p><br><br>
+  <p style="text-align:center;">For Spare Me, Spare Me Lite, and Five Pin Bowling Lite, please email questions, comments, suggestions and issues to <a href="mailto:SpareMeService@gmail.com"><i>Spare Me Support.</i></a>  Allow 24-48 hours for response, thank you.<br></p><br>
 
   <p style="text-align:center;">Contact page for Bowling Romance application<br></p>
 
